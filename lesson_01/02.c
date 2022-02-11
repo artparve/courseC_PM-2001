@@ -1,5 +1,4 @@
-void main2
-()
+void main2()
 {
     printf("Hello world!\n");
 }
