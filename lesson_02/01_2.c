@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*int input(){
+int input(){
     int a, n;
 
     n = scanf("%d", &a);
@@ -11,18 +11,22 @@
     }
 
     return a;
-}*/
+}
 
-void main01_1(){
-    int c, count = 0, a, sum = 0;
+void main01_2(){
+    int c, count = 0, a, min;
 
     c = input();
 
-    while (count < c){
+    min = input();
+
+    while (count < c - 1){
         count++;
         a = input();
-        sum += a;
+        if (a < min){
+            min = a;
+        }
     }
 
-    printf("%d", sum);
+    printf("%d", min);
 }
