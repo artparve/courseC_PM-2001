@@ -4,6 +4,7 @@
 int main()
 {
     //main01_1();
-    main01_2();
+    //main01_2();
+    main02_1();
     return 0;
 }
