@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1648497697 source:c:\users\artpa\onedrive\Прога\c\coursec_pm-2001\lesson_05\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1648492133 source:c:\users\artpa\onedrive\Прога\c\coursec_pm-2001\lesson_05\01.c
+	<stdio.h>
+	<stdlib.h>
+
+1648492584 source:c:\users\artpa\onedrive\Прога\c\coursec_pm-2001\lesson_05\02.c
+	<stdio.h>
+	<stdlib.h>
+
+1648492955 source:c:\users\artpa\onedrive\Прога\c\coursec_pm-2001\lesson_05\03.c
+	<stdio.h>
+	<stdlib.h>
+
+1648492934 source:c:\users\artpa\onedrive\Прога\c\coursec_pm-2001\lesson_05\04.c
+	<stdio.h>
+	<stdlib.h>
+
+1648492902 source:c:\users\artpa\onedrive\Прога\c\coursec_pm-2001\lesson_05\05.c
+	<stdio.h>
+	<stdlib.h>
+
